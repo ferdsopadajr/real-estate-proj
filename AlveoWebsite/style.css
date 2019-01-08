@@ -1,0 +1,12 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  min-width: 1024px;
+  display: -ms-flexbox;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #f5f5f5;
+}
